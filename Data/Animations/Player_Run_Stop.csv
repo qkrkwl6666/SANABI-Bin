@@ -1,0 +1,10 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Run_Stop,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Player_RunStop.png,0,0,38,42
+graphics/Player_RunStop.png,38,0,38,42
+graphics/Player_RunStop.png,76,0,38,42
+graphics/Player_RunStop.png,114,0,38,42
+graphics/Player_RunStop.png,152,0,38,42
+graphics/Player_RunStop.png,190,0,38,42
