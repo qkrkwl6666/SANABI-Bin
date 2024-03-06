@@ -1,0 +1,24 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Arm_Running,20,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Arm_Running.png,0,0,32,23
+graphics/Arm_Running.png,32,0,32,23
+graphics/Arm_Running.png,64,0,32,23
+graphics/Arm_Running.png,96,0,32,23
+graphics/Arm_Running.png,128,0,32,23
+graphics/Arm_Running.png,160,0,32,23
+graphics/Arm_Running.png,192,0,32,23
+graphics/Arm_Running.png,224,0,32,23
+graphics/Arm_Running.png,256,0,32,23
+graphics/Arm_Running.png,288,0,32,23
+graphics/Arm_Running.png,320,0,32,23
+graphics/Arm_Running.png,352,0,32,23
+graphics/Arm_Running.png,384,0,32,23
+graphics/Arm_Running.png,416,0,32,23
+graphics/Arm_Running.png,448,0,32,23
+graphics/Arm_Running.png,480,0,32,23
+graphics/Arm_Running.png,512,0,32,23
+graphics/Arm_Running.png,544,0,32,23
+graphics/Arm_Running.png,576,0,32,23
+graphics/Arm_Running.png,608,0,32,23

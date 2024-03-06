@@ -1,0 +1,24 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Running,20,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Player_Running.png,0,0,40,40
+graphics/Player_Running.png,40,0,40,40
+graphics/Player_Running.png,80,0,40,40
+graphics/Player_Running.png,120,0,40,40
+graphics/Player_Running.png,160,0,40,40
+graphics/Player_Running.png,200,0,40,40
+graphics/Player_Running.png,240,0,40,40
+graphics/Player_Running.png,280,0,40,40
+graphics/Player_Running.png,320,0,40,40
+graphics/Player_Running.png,360,0,40,40
+graphics/Player_Running.png,400,0,40,40
+graphics/Player_Running.png,440,0,40,40
+graphics/Player_Running.png,480,0,40,40
+graphics/Player_Running.png,520,0,40,40
+graphics/Player_Running.png,560,0,40,40
+graphics/Player_Running.png,600,0,40,40
+graphics/Player_Running.png,640,0,40,40
+graphics/Player_Running.png,680,0,40,40
+graphics/Player_Running.png,720,0,40,40
+graphics/Player_Running.png,760,0,40,40

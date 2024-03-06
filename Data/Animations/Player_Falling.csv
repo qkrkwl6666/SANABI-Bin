@@ -1,0 +1,7 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Falling,9,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Falling.png,0,0,42,58
+graphics/Falling.png,42,0,42,58
+graphics/Falling.png,84,0,42,58

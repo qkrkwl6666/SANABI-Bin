@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Arm_Idle,8,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Idle_Arm.png,0,0,19,31
+graphics/Idle_Arm.png,19,0,19,31
+graphics/Idle_Arm.png,38,0,19,31
+graphics/Idle_Arm.png,57,0,19,31
+graphics/Idle_Arm.png,76,0,19,31
+graphics/Idle_Arm.png,95,0,19,31
+graphics/Idle_Arm.png,114,0,19,31
+graphics/Idle_Arm.png,133,0,19,31

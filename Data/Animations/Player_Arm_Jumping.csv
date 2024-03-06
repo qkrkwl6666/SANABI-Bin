@@ -1,0 +1,10 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Arm_Jumping,12,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Jumping_Arm.png,0,0,18,31
+graphics/Jumping_Arm.png,18,0,18,31
+graphics/Jumping_Arm.png,36,0,18,31
+graphics/Jumping_Arm.png,54,0,18,31
+graphics/Jumping_Arm.png,72,0,18,31
+graphics/Jumping_Arm.png,90,0,18,31

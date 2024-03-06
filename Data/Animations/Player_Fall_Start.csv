@@ -1,0 +1,7 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Fall_Start,9,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Fall_Start.png,0,0,53,54
+graphics/Fall_Start.png,54,0,53,54
+graphics/Fall_Start.png,108,0,53,54

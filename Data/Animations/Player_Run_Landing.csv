@@ -1,0 +1,7 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Run_Landing,13,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Player_Run_Landing.png,0,0,40,41
+graphics/Player_Run_Landing.png,60,0,40,41
+graphics/Player_Run_Landing.png,120,0,40,41

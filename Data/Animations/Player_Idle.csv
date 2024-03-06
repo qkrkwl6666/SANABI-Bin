@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Idle,8,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Idle_Player.png,0,0,24,42
+graphics/Idle_Player.png,24,0,24,42
+graphics/Idle_Player.png,48,0,24,42
+graphics/Idle_Player.png,72,0,24,42
+graphics/Idle_Player.png,96,0,24,42
+graphics/Idle_Player.png,120,0,24,42
+graphics/Idle_Player.png,144,0,24,42
+graphics/Idle_Player.png,168,0,24,42
