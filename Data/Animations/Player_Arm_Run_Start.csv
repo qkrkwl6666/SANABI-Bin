@@ -1,0 +1,6 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Arm_Run_Start,2,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Arm_Run_Start.png,0,0,44,31
+graphics/Arm_Run_Start.png,22,0,44,31

@@ -1,0 +1,6 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Run_Start,2,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Player_Run_Start.png,0,0,32,41
+graphics/Player_Run_Start.png,32,0,32,41

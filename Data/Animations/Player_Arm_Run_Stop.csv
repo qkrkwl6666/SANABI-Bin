@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Player_Arm_Run_Stop,10,0,,
+Player_Arm_Run_Stop,12,0,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
 graphics/Player_Arm_Run_Stop.png,0,0,25,31

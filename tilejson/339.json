@@ -1,0 +1,62 @@
+{
+    "tileSizeX": 40.0,
+    "tileSizeY": 40.0,
+    "mapSizeX": 3,
+    "mapSizeY": 3,
+    "tiles": [
+        {
+            "type": 1,
+            "texture FilePath": "tileset/Spr_Stage1_Tileset_0.png",
+            "x Pos": 0.0,
+            "y Pos": 0.0
+        },
+        {
+            "type": 1,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_18.png",
+            "x Pos": 40.0,
+            "y Pos": 0.0
+        },
+        {
+            "type": 0,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_2.png",
+            "x Pos": 80.0,
+            "y Pos": 0.0
+        },
+        {
+            "type": 1,
+            "texture FilePath": "tileset/Spr_Stage1_Tileset_0.png",
+            "x Pos": 0.0,
+            "y Pos": 40.0
+        },
+        {
+            "type": 1,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_18.png",
+            "x Pos": 40.0,
+            "y Pos": 40.0
+        },
+        {
+            "type": 0,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_2.png",
+            "x Pos": 80.0,
+            "y Pos": 40.0
+        },
+        {
+            "type": 1,
+            "texture FilePath": "tileset/Spr_Stage1_Tileset_0.png",
+            "x Pos": 0.0,
+            "y Pos": 80.0
+        },
+        {
+            "type": 1,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_18.png",
+            "x Pos": 40.0,
+            "y Pos": 80.0
+        },
+        {
+            "type": 0,
+            "texture FilePath": "C:\\Users\\KGA\\Desktop\\SANABI\\SANABI Bin\\tileset\\Prologue\\Spr_Prologue_Tileset_2.png",
+            "x Pos": 80.0,
+            "y Pos": 80.0
+        }
+    ]
+}
