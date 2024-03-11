@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Arm_Shift_Rolling,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/arm/Arm_Shift_Roll2Fall.png,0,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,38,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,76,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,114,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,152,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,190,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,228,0,38,36
+graphics/arm/Arm_Shift_Roll2Fall.png,266,0,38,36

@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Shift_Rolling,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/player/Player_Shift_Roll2Fall.png,0,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,42,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,84,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,126,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,168,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,210,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,252,0,42,58
+graphics/player/Player_Shift_Roll2Fall.png,294,0,42,58

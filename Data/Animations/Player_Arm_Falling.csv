@@ -1,7 +1,7 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Player_Arm_Falling,9,1,,
+Player_Arm_Falling,3,1,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
 graphics/Arm_Falling.png,0,0,30,25
-graphics/Arm_Falling.png,14,0,30,25
-graphics/Arm_Falling.png,28,0,30,25
+graphics/Arm_Falling.png,30,0,30,25
+graphics/Arm_Falling.png,60,0,30,25

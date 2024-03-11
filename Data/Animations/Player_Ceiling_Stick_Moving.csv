@@ -1,0 +1,20 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Ceiling_Stick_Moving,16,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/player/Player_Ceiling_Stick_Moving.png,0,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,35,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,70,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,105,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,140,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,175,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,210,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,245,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,280,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,315,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,350,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,385,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,420,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,455,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,490,0,35,45
+graphics/player/Player_Ceiling_Stick_Moving.png,525,0,35,45

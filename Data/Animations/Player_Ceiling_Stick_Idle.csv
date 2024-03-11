@@ -1,0 +1,16 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Ceiling_Stick_Idle,12,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/player/Player_CeilingStick_Idle.png,0,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,25,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,50,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,75,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,100,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,125,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,150,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,175,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,200,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,225,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,250,0,25,43
+graphics/player/Player_CeilingStick_Idle.png,275,0,25,43
