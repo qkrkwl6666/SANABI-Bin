@@ -1,0 +1,7 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Enemy_RifleMan_Arm_Aiming,2,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/RifleMan/Spr_ENE_RiflemanArm_Aiming.png,0,0,29,34
+graphics/Enemy/RifleMan/Spr_ENE_RiflemanArm_Aiming.png,29,0,29,34
+graphics/Enemy/RifleMan/Spr_ENE_RiflemanArm_Aiming.png,58,0,29,34
