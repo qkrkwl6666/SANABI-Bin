@@ -1,0 +1,13 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Charge_Dash_Charge_End,9,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,0,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,42,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,84,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,126,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,168,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,210,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,252,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,294,0,42,58
+graphics/Charge_Dash/Player_ChargeDashChargeEnd.png,336,0,42,58

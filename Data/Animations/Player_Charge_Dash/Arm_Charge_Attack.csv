@@ -1,0 +1,13 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Arm_Charge_Attack,9,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Charge_Dash/Arm_ChargeAttack.png,0,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,38,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,76,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,114,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,152,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,190,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,228,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,266,0,38,36
+graphics/Charge_Dash/Arm_ChargeAttack.png,304,0,38,36

@@ -1,0 +1,27 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Charge_Dash_Charge_Start,23,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,0,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,40,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,80,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,120,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,160,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,200,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,240,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,280,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,320,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,360,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,400,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,440,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,480,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,520,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,560,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,600,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,640,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,680,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,720,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,760,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,800,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,840,0,40,47
+graphics/Charge_Dash/Player_ChargeDashChargeStart.png,880,0,40,47
