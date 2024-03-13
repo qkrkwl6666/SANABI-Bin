@@ -1,14 +1,14 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Arm_Charge_Desh,10,0,,
+Arm_Charge_Desh,15,0,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
-graphics/Charge_Dash/Arm_ChargeDash.png,0,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,74,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,148,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,222,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,296,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,370,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,444,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,518,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,592,0,74,46
-graphics/Charge_Dash/Arm_ChargeDash.png,666,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,0,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,74,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,148,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,222,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,296,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,370,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,444,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,518,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,592,0,74,46
+graphics/player/Charge_Dash/Arm_ChargeDash.png,666,0,74,46

@@ -1,12 +1,12 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Player_Charge_Dash_Charge_Loop,8,0,,
+Player_Charge_Dash_Charge_Loop,12,1,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,0,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,32,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,64,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,96,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,128,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,160,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,192,0,32,32
-graphics/Charge_Dash/Player_ChargeDashChargeLoop.png,224,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,0,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,32,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,64,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,96,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,128,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,160,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,192,0,32,32
+graphics/player/Charge_Dash/Player_ChargeDashChargeLoop.png,224,0,32,32
