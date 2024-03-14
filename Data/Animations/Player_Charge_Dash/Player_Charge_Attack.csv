@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Player_Charge_Attack,27,0,,
+Player_Charge_Attack,18,0,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
 graphics/player/Charge_Dash/Player_ChargeAttack.png,0,0,42,58

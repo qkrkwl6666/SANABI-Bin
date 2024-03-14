@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_Idle,8,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,0,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,31,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,62,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,93,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,124,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,155,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,186,0,31,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Idle/Spr_BOSS_Major_Idle.png,217,0,31,43

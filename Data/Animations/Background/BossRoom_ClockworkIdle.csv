@@ -1,0 +1,22 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+BossRoom_ClockworkIdle,6,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-0.png,0,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-0.png,701,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-0.png,0,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-0.png,701,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-1.png,0,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-1.png,701,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-1.png,0,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-1.png,701,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-2.png,0,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-2.png,701,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-2.png,0,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-2.png,701,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-3.png,0,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-3.png,701,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-3.png,0,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-3.png,701,799,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-4.png,0,0,701,799
+graphics/Background/BossRoom/Spr_Chap4_BossRoom_ClockworkIdle-4.png,701,0,701,799

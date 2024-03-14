@@ -1,0 +1,17 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_SphereNormal1_SetSphere,13,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,0,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,33,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,66,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,99,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,132,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,165,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,198,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,231,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,264,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,297,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,330,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,363,0,33,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_SetSphere/Spr_BOSS_Major_SphereNormal1_SetSphere.png,396,0,33,43

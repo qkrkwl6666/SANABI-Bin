@@ -1,0 +1,11 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_SphereNormal1_Attack,7,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,0,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,74,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,148,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,222,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,296,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,370,0,74,96
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_SphereNormal1_Attack/Spr_BOSS_Major_SphereNormal1_Attack.png,444,0,74,96
