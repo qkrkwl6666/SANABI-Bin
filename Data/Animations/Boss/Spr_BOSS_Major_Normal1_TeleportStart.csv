@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_Normal1_TeleportStart,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,0,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,71,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,142,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,213,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,284,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,355,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,426,0,71,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_TeleportStart/Spr_BOSS_Major_Normal1_TeleportStart.png,497,0,71,43

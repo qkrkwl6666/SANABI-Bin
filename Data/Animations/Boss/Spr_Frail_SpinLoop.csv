@@ -1,0 +1,15 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_Frail_SpinLoop,11,1,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,0,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,92,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,184,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,276,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,368,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,460,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,552,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,644,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,736,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,828,0,92,96
+graphics/Enemy/Boss_Major/Frail/Spr_Frail_SpinLoop.png,920,0,92,96

@@ -1,0 +1,14 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_Normal1_Attack,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,0,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,79,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,158,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,237,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,316,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,395,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,474,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,553,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,632,0,79,66
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Normal1_Attack/Spr_BOSS_Major_Normal1_Attack.png,711,0,79,66

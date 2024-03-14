@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_RushEnd,15,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,0,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,44,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,88,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,132,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,176,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,220,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,264,0,44,54
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEnd/Spr_BOSS_Major_RushEnd.png,308,0,44,54

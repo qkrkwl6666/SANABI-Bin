@@ -1,0 +1,8 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_RushEndTeleport,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEndTeleport/Spr_BOSS_Major_RushEndTeleport.png,0,0,96,50
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEndTeleport/Spr_BOSS_Major_RushEndTeleport.png,96,0,96,50
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEndTeleport/Spr_BOSS_Major_RushEndTeleport.png,192,0,96,50
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_RushEndTeleport/Spr_BOSS_Major_RushEndTeleport.png,288,0,96,50

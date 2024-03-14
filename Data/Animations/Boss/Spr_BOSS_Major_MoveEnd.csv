@@ -1,0 +1,14 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_MoveEnd,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,0,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,58,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,116,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,174,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,232,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,290,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,348,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,406,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,464,0,58,44
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_MoveEnd/Spr_BOSS_Major_MoveEnd.png,522,0,58,44
