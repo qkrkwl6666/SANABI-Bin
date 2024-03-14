@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
-Player_Charge_Dash_Charge_End,9,0,,
+Player_Charge_Dash_Charge_End,15,0,,
 ,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT
 graphics/player/Charge_Dash/Player_ChargeDashChargeEnd.png,0,0,42,58
