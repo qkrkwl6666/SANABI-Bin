@@ -1,0 +1,11 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_Melee1_Attack,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,0,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,35,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,70,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,105,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,140,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,175,0,35,46
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_Attack/Spr_BOSS_Major_Melee1_Attack.png,210,0,35,46

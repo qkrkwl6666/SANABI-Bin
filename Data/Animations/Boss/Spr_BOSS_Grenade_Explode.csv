@@ -1,0 +1,15 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Grenade_Explode,16,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,0,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,185,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,370,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,555,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,740,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,925,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,1110,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,1295,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,1480,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,1665,0,185,193
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Explode.png,1850,0,185,193

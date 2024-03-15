@@ -1,0 +1,10 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Grenade_Idle,6,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,0,0,90,37
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,90,0,90,37
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,180,0,90,37
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,270,0,90,37
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,360,0,90,37
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Grenade/Spr_BOSS_Grenade_Idle.png,450,0,90,37

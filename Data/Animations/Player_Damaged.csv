@@ -1,0 +1,9 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Damaged,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/player/Dameged/Spr_SNB_Damaged.png,0,0,40,44
+graphics/player/Dameged/Spr_SNB_Damaged.png,40,0,40,44
+graphics/player/Dameged/Spr_SNB_Damaged.png,80,0,40,44
+graphics/player/Dameged/Spr_SNB_Damaged.png,120,0,40,44
+graphics/player/Dameged/Spr_SNB_Damaged.png,160,0,40,44

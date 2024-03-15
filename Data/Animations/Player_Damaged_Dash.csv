@@ -1,0 +1,8 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Player_Damaged_Dash,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/player/Dameged/Spr_SNB_Dash.png,0,0,79,40
+graphics/player/Dameged/Spr_SNB_Dash.png,79,0,79,40
+graphics/player/Dameged/Spr_SNB_Dash.png,158,0,79,40
+graphics/player/Dameged/Spr_SNB_Dash.png,237,0,79,40

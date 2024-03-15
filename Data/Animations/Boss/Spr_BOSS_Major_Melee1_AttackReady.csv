@@ -1,0 +1,19 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_Melee1_AttackReady,15,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,0,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,78,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,156,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,234,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,312,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,390,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,468,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,546,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,624,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,702,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,780,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,858,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,936,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,1014,0,78,68
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_Melee1_AttackReady/Spr_BOSS_Major_Melee1_AttackReady.png,1092,0,78,68
