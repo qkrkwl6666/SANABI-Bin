@@ -1,0 +1,14 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_SNB_TakeDownByMajor,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,0,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,73,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,146,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,219,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,292,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,365,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,438,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,511,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,584,0,73,88
+graphics/TakeDown/Player_TakeDown/Spr_SNB_TakeDownByMajor.png,657,0,73,88

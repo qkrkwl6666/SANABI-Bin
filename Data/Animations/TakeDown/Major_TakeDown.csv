@@ -1,0 +1,20 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_TakeDown,8,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,0,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,80,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,160,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,240,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,320,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,400,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,480,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,560,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,640,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,720,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,800,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,880,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,960,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,1040,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,1120,0,80,52
+graphics/TakeDown/Spr_BOSS_Major_TakeDown/Spr_BOSS_Major_TakeDown.png,1200,0,80,52
