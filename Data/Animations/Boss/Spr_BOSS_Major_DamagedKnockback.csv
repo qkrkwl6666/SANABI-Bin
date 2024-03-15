@@ -1,0 +1,27 @@
+ID,FPS,LOOPTYPE 0 : SINGLE 1 : LOOP,,
+Spr_BOSS_Major_DamagedKnockback,13,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,0,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,39,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,78,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,117,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,156,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,195,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,234,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,273,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,312,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,351,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,390,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,429,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,468,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,507,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,546,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,585,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,624,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,663,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,702,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,741,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,780,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,819,0,39,43
+graphics/Enemy/Boss_Major/P1/Spr_BOSS_Major_DamagedKnockback/Spr_BOSS_Major_DamagedKnockback.png,858,0,39,43
